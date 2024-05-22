@@ -1,6 +1,6 @@
 # Yahoo Finance Scraper
 
-This Python script allows you to scrape financial data from Yahoo Finance screeners. It retrieves the data for a selected stock screener and exports it to a CSV file. The script utilizes the requests, BeautifulSoup, datetime, pandas, and PySimpleGUI libraries.
+This Python script allows you to scrape financial data from Yahoo Finance screeners. It retrieves the data for a selected stock screener and exports it to a CSV file. The script utilizes the **Requests**, **BeautifulSoup**, **Datetime**, **Pandas**, and **PySimpleGUI** libraries.
 
 ## Features
 - Web Scraping: Retrieves financial data from Yahoo Finance screeners.
@@ -14,7 +14,7 @@ pip install requests beautifulsoup4 pandas PySimpleGUI
 
 
 ## Usage
-1. Run the script by executing python scraper.py.
+1. Run the script by executing **scraper_yahoo_screeners.py**.
 2. Select a stock screener from the dropdown menu.
 3. Click the "Ok" button to start scraping the data.
 4. Once the scraping is complete, a success message will be displayed.
